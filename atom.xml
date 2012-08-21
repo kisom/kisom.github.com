@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[kisom::github]]></title>
+  <link href="http://kisom.github.com/atom.xml" rel="self"/>
+  <link href="http://kisom.github.com/"/>
+  <updated>2012-08-21T15:59:11-06:00</updated>
+  <id>http://kisom.github.com/</id>
+  <author>
+    <name><![CDATA[Kyle Isom]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[An Honest Self-Assessment]]></title>
+    <link href="http://kisom.github.com/blog/2012/an-honest-self-assessment/"/>
+    <updated>2012-08-21T14:04:00-06:00</updated>
+    <id>http://kisom.github.com/blog/2012/an-honest-self-assessment</id>
+    <content type="html"><![CDATA[<p>While looking through my <a href="http://www.getprismatic">Prismatic</a> feed, I
+came across the <a href="http://is.gd/eKcL8z">Programmer Competency Matrix</a> and
+decided to evaluate myself based on it. Here is my honest assessment
+of where I stand.</p>
+
+<!-- more -->
+
+
+<h3>Introduction</h3>
+
+<p>Each field contains several rows with the columns &#8216;2n&#8217;,
+&#8216;n<sup>2</sup>&#8217;, &#8216;n&#8217;, and &#8216;log(n)&#8217;. I rank myself in each field by the
+lowest score attained (the chain is only as strong as its weakest link
+cliché), but note where I am generally strong.</p>
+
+<h3>Computer Science</h3>
+
+<p><strong>Fields</strong>: data structures, algorithms, systems programming</p>
+
+<p><strong>Overall score</strong>: n<sup>2</sup></p>
+
+<p><strong>Assessment</strong>: I am very weak on algorithms; this is partly due to the
+fact that my computer science education only went through the basic
+data structures class, but also my focus to date on systems
+programming. I grok the basic data structures (linked lists, trees,
+etc&#8230;) and I understand basic sorting, but I&#8217;ve never had a reason to
+learn the more complex side. This is definitely something I would like
+to fix.</p>
+
+<p><strong>Plan to improve</strong>: start with
+<a href="http://www.amazon.com/dp/0262033844">Intro to Algorithms</a> and
+<a href="www.amazon.com/dp/059651624X">Algorithms in a Nutshell</a>. Figure out a
+project that will require the use of these algorithms.</p>
+
+<h3>Software Engineering</h3>
+
+<p><strong>Fields</strong>: version control, build automation, automated testing</p>
+
+<p><strong>Overall score</strong>: n (leaning towards log(n))</p>
+
+<p><strong>Assessment</strong>: Software engineering is a field I&#8217;m fairly strong at. The
+weakest link in this case is automated testing, and in that case I&#8217;m
+held back by UI testing. I&#8217;ve not done much code that has a real UI,
+so testing that component is not something I&#8217;m very strong at. Build
+automation is a solved problem, and I&#8217;m strong with Makefiles,
+autotools, shell scripting, and in general not doing things by
+hand. I&#8217;ve got a strong background in both Git and Mercurial, so that
+helps out with the source control aspect.</p>
+
+<p><strong>Plan to improve</strong>: this isn&#8217;t a field I that I&#8217;m going to prioritise
+right now. Once some of the other fields have been dealt with, I can
+move forward here.</p>
+
+<h3>Programming</h3>
+
+<p><strong>Fields</strong>: problem decomposition, systems decomposition, communication,
+code organisation in a file, code organisation across files, source
+tree organisation, code readability, defensive coding, error handling,
+IDE, API, frameworks, requirements, scripting, databases</p>
+
+<p><strong>Overall score</strong>: n<sup>2</sup> (strongly leaning towards n or
+better)</p>
+
+<p><strong>Assessment</strong>: In general, I rank mostly n or log(n); databases are
+the one n<sup>2</sup> element that is holding me back in this
+assessment, as the systems work I&#8217;ve done hasn&#8217;t require much in the
+way of database work. Functional programming has greatly boosted my
+problem and systems decomposition skills, and my background has also
+taught me how to communicate well. As for code organisation, I write
+clean code. Thanks to <a href="http://www.lteo.net">Lawrence Teo</a>, I make sure
+to license all of my code; one of the first things I do when starting
+new projects is to create a README. I&#8217;ve written a Python library to
+help with defensive coding, and part of my unit tests involves testing
+to ensure that exceptional states are checked. I do need more work on
+my error handling skills and devising better strategies. As for the
+IDE, I use vim and emacs, and have written both vimscripts and elisp
+code to extend my editor. I generalised the API portion; I&#8217;ve written
+API interfaces to simplify access to various APIs and I&#8217;m working on a
+Common Lisp REST API toolkit now to facilitate quickly interfacing to
+new REST APIs. I don&#8217;t generally use frameworks much (as a systems
+programmer), so that is a weaker skill for me. The closest I&#8217;ve come
+is using the <a href="http://webnoir.org">noir</a> web framework for Clojure, and
+I haven&#8217;t done enough with that to really get good at it. I&#8217;m very
+adept at scripting - I script almost anything I find myself doing more
+than once, and have even written a static site generator in POSIX
+Bourne shell, and live by the Unix command line tools.</p>
+
+<p><strong>Plan to improve:</strong> I need to start using databases more. Some of the
+projects I have in the works will help with this. I think much of this
+will come with experience.</p>
+
+<h3>Experience:</h3>
+
+<p><strong>Fields</strong>:</p>
+
+<p><strong>Overall score</strong>:</p>
+
+<p><strong>Assessment</strong>:</p>
+
+<p><strong>Plan to improve</strong>:</p>
+]]></content>
+  </entry>
+  
+</feed>
