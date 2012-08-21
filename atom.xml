@@ -4,7 +4,7 @@
   <title><![CDATA[kisom::github]]></title>
   <link href="http://kisom.github.com/atom.xml" rel="self"/>
   <link href="http://kisom.github.com/"/>
-  <updated>2012-08-21T15:59:11-06:00</updated>
+  <updated>2012-08-21T17:19:32-06:00</updated>
   <id>http://kisom.github.com/</id>
   <author>
     <name><![CDATA[Kyle Isom]]></name>
@@ -111,13 +111,36 @@ will come with experience.</p>
 
 <h3>Experience:</h3>
 
-<p><strong>Fields</strong>:</p>
+<p><strong>Fields</strong>: languages with professional experience, platforms with
+professional experience, years of professional experience, domain
+knowledge</p>
 
-<p><strong>Overall score</strong>:</p>
+<p><strong>Overall score</strong>: n<sup>2</sup></p>
 
-<p><strong>Assessment</strong>:</p>
+<p><strong>Assessment</strong>: I need more experience.</p>
 
-<p><strong>Plan to improve</strong>:</p>
+<p><strong>Plan to improve</strong>: Stay in the field.</p>
+
+<h3>Knowledge</h3>
+
+<p><strong>Fields</strong>: total knowledge, languages exposed to, codebase knowledge,
+knowledge of upcoming technologies, platform internals, books, blogs</p>
+
+<p><strong>Overall score</strong>: n</p>
+
+<p><strong>Assessment</strong>: I&#8217;ve got a fair amount of knowledge. I keep finding, as the saying
+goes, the more I learn, the more I learn I have yet to learn.</p>
+
+<p><strong>Plan to improve</strong>: One strategy for improving that I think offers a
+high payout is to read more books aimed at core skills, rather than
+books aimed a specific skill or language.</p>
+
+<h3>Conclusions</h3>
+
+<p>If I score the top-level fields the same way I scored the subfields,
+it turns out I am an n<sup>2</sup> programmer. I have a lot of work to
+do. My priority right now is to brush up on algorithms and data
+structures, and work on gaining a deeper knowledge of that field.</p>
 ]]></content>
   </entry>
   
