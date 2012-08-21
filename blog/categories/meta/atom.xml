@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meta | kisom::github]]></title>
   <link href="http://kisom.github.com/blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://kisom.github.com/"/>
-  <updated>2012-08-21T17:19:32-06:00</updated>
+  <updated>2012-08-21T17:39:18-06:00</updated>
   <id>http://kisom.github.com/</id>
   <author>
     <name><![CDATA[Kyle Isom]]></name>
@@ -128,8 +128,13 @@ knowledge of upcoming technologies, platform internals, books, blogs</p>
 
 <p><strong>Overall score</strong>: n</p>
 
-<p><strong>Assessment</strong>: I've got a fair amount of knowledge. I keep finding, as the saying
-goes, the more I learn, the more I learn I have yet to learn.</p>
+<p><strong>Assessment</strong>: I've got a fair amount of knowledge. I keep finding,
+as the saying goes, the more I learn, the more I learn I have yet to
+learn. As for platform internals, I have a fairly solid in-depth
+knowledge on the internals of the CPython platform and the C
+language. The little bit of reversing I have done has given me a
+fairly in-depth understanding of how C programs are compiled and what
+the resulting assembly looks like.</p>
 
 <p><strong>Plan to improve</strong>: One strategy for improving that I think offers a
 high payout is to read more books aimed at core skills, rather than
